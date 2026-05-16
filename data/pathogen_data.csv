@@ -1,0 +1,9 @@
+Date,City,Latitude,Longitude,Pathogen,Cases
+2026-05-01,Mar del Plata,-38.0055,-57.5426,Influenza,25
+2026-05-02,Mar del Plata,-38.0055,-57.5426,COVID-19,40
+2026-05-03,Buenos Aires,-34.6037,-58.3816,Influenza,18
+2026-05-04,Cordoba,-31.4201,-64.1888,Dengue,55
+2026-05-05,Rosario,-32.9442,-60.6505,COVID-19,70
+2026-05-06,Mar del Plata,-38.0055,-57.5426,Dengue,30
+2026-05-07,Mendoza,-32.8895,-68.8458,Influenza,20
+2026-05-08,La Plata,-34.9214,-57.9544,COVID-19,45
